@@ -2,8 +2,21 @@
   <img src="frontend/src/assets/logo.svg">
 </p>
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/rocketseat/react-native-template-rocketseat-basic.svg)](https://github.com/evanlion/be_the_hero/commits/master)
-[![NPM](https://img.shields.io/npm/l/react-native-template-rocketseat-basic.svg)](https://choosealicense.com/licenses/mit)
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/evanlion/be_the_hero">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/evanlion/be_the_hero">
+  
+  <a href="https://github.com/evanlion/be_the_hero/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/evanlion/be_the_hero">
+  </a>
+
+  <a href="https://github.com/evanlion/be_the_hero/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/evanlion/be_the_hero">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
 
 ## Projeto
 
