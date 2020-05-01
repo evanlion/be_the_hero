@@ -38,6 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
     - [Express](https://expressjs.com/pt-br/)
     - [KnexJS](http://knexjs.org/)
 - [React](https://reactjs.org/)
+- [VS Code][vc] com [EditorConfig][vceditconfig] e [ESLint][vceslint]
 
 ## :information_source: Como usar
 
