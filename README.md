@@ -33,20 +33,45 @@ O Be The Hero é um projeto que conecta pessoas interessadas em ajudar ongs.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
+- [Node.js][nodejs]
 - [React](https://reactjs.org/)
+
+## :information_source: Como usar
+
+Para clonar e executar este aplicativo, você precisará [Git](https://git-scm.com), [Node.js][nodejs] + [npm](https://www.npmjs.com/get-npm) instalado no seu computador.
+
+Na sua linha de comando:
+
+### Instalar API
+```bash
+# Clone este repositório
+$ git clone https://github.com/evanlion/be_the_hero
+
+# Go into the repository
+$ cd be_the_hero/backend
+
+# Install dependencies
+$ npm install
+
+# Run Migrates
+$ npx knex migrate:latest 
+
+# Run the API
+$ npm start
+```
 
 
 ## 🤔 Como contribuir
 
 Contribuições são o que fazem a comunidade open source um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será **muito apreciada**.
 
-1. Faça um Fork do projeto
+1. Faça um fork desse repositório;
 2. Crie uma Branch para sua Feature (`git checkout -b feature/FeatureIncrivel`)
 3. Adicione suas mudanças (`git add .`)
 4. Comite suas mudanças (`git commit -m 'Adicionando uma Feature incrível!`)
 5. Faça o Push da Branch (`git push origin feature/FeatureIncrivel`)
-6. Abra um Pull Request
+
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
 <!-- LICENSE -->
 
@@ -59,3 +84,5 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações
 ## Contato
 
 Daniel Lion - [Github](https://github.com/evanlion) - **evangelistalion@gmail.com**
+
+[nodejs]: https://nodejs.org/
