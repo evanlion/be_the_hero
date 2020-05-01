@@ -35,6 +35,8 @@ O Be The Hero é um projeto que conecta pessoas interessadas em ajudar ongs.
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js][nodejs]
+    - [Express](https://expressjs.com/pt-br/)
+    - [KnexJS](http://knexjs.org/)
 - [React](https://reactjs.org/)
 
 ## :information_source: Como usar
