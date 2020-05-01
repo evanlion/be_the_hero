@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="frontend/src/assets/logo.svg">
-</p>
+<h1 align="center">
+    <img alt="Aircnc" title="#delicinha" src="frontend/src/assets/logo.svg"/>
+</h1>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/evanlion/be_the_hero">
@@ -18,11 +18,18 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
-## Projeto
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+## 💻 Projeto
 
 O Be The Hero é um projeto que conecta pessoas interessadas em ajudar ongs.
 
-### Tecnologias
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -30,7 +37,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org/)
 
 
-## Contribuição
+## 🤔 Como contribuir
 
 Contribuições são o que fazem a comunidade open source um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será **muito apreciada**.
 
@@ -43,7 +50,7 @@ Contribuições são o que fazem a comunidade open source um lugar incrível par
 
 <!-- LICENSE -->
 
-## Licença
+## :memo: Licença
 
 Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações.
 
