@@ -90,3 +90,6 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações
 Daniel Lion - [Github](https://github.com/evanlion) - **evangelistalion@gmail.com**
 
 [nodejs]: https://nodejs.org/
+[vc]: https://code.visualstudio.com/
+[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
