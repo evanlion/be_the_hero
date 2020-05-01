@@ -32,7 +32,7 @@ Contribuições são o que fazem a comunidade open source um lugar incrível par
 
 ## Licença
 
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
+Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações.
 
 <!-- CONTACT -->
 
